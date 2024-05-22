@@ -1,5 +1,5 @@
 import React from "react";
-import GoalList from "./components/GoalList";
+import GoalList from "./components/GoalList/GoalList";
 
 import "./App.css";
 
